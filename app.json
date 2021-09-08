@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "todo-react-app",
+    "slug": "todo-react-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "todo-react-app"
+}
